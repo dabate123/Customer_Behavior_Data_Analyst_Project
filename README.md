@@ -74,12 +74,6 @@ Customer-Behavior-Analysis/
 
 🚀 How to Run
 
-Clone the repository
-
-git clone https://github.com/dabate123/Customer-Behavior-Analysis.git
-cd Customer-Behavior-Analysis
-
-
 Install dependencies
 
 pip install -r requirements.txt
