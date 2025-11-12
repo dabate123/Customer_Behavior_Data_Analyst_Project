@@ -76,7 +76,7 @@ Customer-Behavior-Analysis/
 
 Clone the repository
 
-git clone https://github.com/yourusername/Customer-Behavior-Analysis.git
+git clone https://github.com/dabate123/Customer-Behavior-Analysis.git
 cd Customer-Behavior-Analysis
 
 
